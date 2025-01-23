@@ -1,3 +1,5 @@
+package others;
+
 import org.testng.annotations.Test;
 
 public class Test2 {
