@@ -1,9 +1,9 @@
+package others;
+
 import org.openqa.selenium.*;
-import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
 
 import java.time.Duration;
-import java.util.List;
 
 public class Expedia  {
     public static void main(String[] args) {
